@@ -1,2 +1,3 @@
-# ddos_traffic_classification
-ML model for DDoS traffic classification
+# DDoS Classification
+
+A simple example of how you can use the Decision Tree to classify DDoS traffic
